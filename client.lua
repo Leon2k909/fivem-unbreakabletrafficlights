@@ -14,7 +14,7 @@ local protectedProps = {
     "prop_sign_road_04f","prop_sign_road_04h","prop_sign_road_04i","prop_sign_road_04j","prop_sign_road_04k",
     "prop_sign_road_04l","prop_sign_road_04m","prop_sign_road_04n","prop_sign_road_04o","prop_sign_road_04p",
     "prop_sign_road_04q","prop_sign_road_04r","prop_sign_road_04s","prop_sign_road_04t","prop_sign_road_04v",
-    "prop_sign_road_04w","prop_sign_road_05f","prop_sign_road_05a"
+    "prop_sign_road_04w","prop_sign_road_05f","prop_sign_road_05a", "prop_sign_road_07a", "prop_sign_road_03o", "prop_sign_road_05d", "prop_sign_road_05za", "prop_elecbox_05a"
 }
 
 -- Build a fast lookup set of model hashes
